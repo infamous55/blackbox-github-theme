@@ -1,0 +1,25 @@
+{
+  "name": "GitHub Light Tritanopia",
+  "comment": "Ported for Black Box Color Scheme",
+  "use-theme-colors": false,
+  "foreground-color": "#1b1f24",
+  "background-color": "#ffffff",
+  "palette": [
+    "#24292f",
+    "#cf222e",
+    "#0550ae",
+    "#4d2d00",
+    "#0969da",
+    "#8250df",
+    "#1b7c83",
+    "#6e7781",
+    "#57606a",
+    "#a40e26",
+    "#0969da",
+    "#633c01",
+    "#218bff",
+    "#a475f9",
+    "#3192aa",
+    "#8c959f"
+  ]
+}

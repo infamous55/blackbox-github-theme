@@ -1,0 +1,25 @@
+{
+  "name": "GitHub Dark Dimmed",
+  "comment": "Ported for Black Box Color Scheme",
+  "use-theme-colors": false,
+  "foreground-color": "#adbac7",
+  "background-color": "#22272e",
+  "palette": [
+    "#545d68",
+    "#f47067",
+    "#57ab5a",
+    "#c69026",
+    "#539bf5",
+    "#b083f0",
+    "#39c5cf",
+    "#909dab",
+    "#636e7b",
+    "#ff938a",
+    "#6bc46d",
+    "#daaa3f",
+    "#6cb6ff",
+    "#dcbdfb",
+    "#56d4dd",
+    "#cdd9e5"
+  ]
+}
